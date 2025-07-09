@@ -19,7 +19,7 @@ classifiers = [
 ]
 
 [tool.poetry.dependencies]
-python = ">=3.10,<3.13"
+python = ">=3.10,<4.0"
 numpy = ">=1.22.0,<2.0.0"
 executing = ">=2.0.1"
 torch = ">=1.12.1"
